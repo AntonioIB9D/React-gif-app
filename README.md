@@ -1,6 +1,6 @@
 # Gif App
 
-Este es el repositorio de la aplicación de gifs de React.
+Aplicación generadora de gifs mediante React.
 
 ## ¿Cómo funciona?
 
