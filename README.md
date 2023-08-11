@@ -29,7 +29,9 @@ npm run dev
 ### La aplicación fue construido mediante 🔧 :
 
 1. React: 18.0.0 🚀
-3. Vite: 2.9.5 
+2. Vite: 2.9.5
+
+---
 
 ##### Nota: Puede ser que la aplicación no realice las busquedas debido al cambio de la API que se utilizo en su debido momento para realizar las consultas (GIPHY DEVELOPERS) 🚀
 
